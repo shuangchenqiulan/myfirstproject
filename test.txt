@@ -1,1 +1,4 @@
-Helloween 
+ git clone https://github.com/shuangchenqiulan/myfirstproject.git
+git add test.txt
+git commit -m "just a test"
+git push origin master
